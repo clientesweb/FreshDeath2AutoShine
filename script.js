@@ -84,7 +84,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 "Tire and rim cleaning",
                 "Interior vacuum and wipe-down"
             ],
-            price: "From $49.99"
+            price: "From $59.99"
         },
         interior: {
             title: "Interior Detailing",
@@ -96,7 +96,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 "Dashboard and console cleaning",
                 "Window and mirror cleaning"
             ],
-            price: "From $89.99"
+            price: "From $99.99"
         },
         paint: {
             title: "Paint Correction",
@@ -108,7 +108,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 "High-gloss finish",
                 "Protective sealant application"
             ],
-            price: "From $199.99"
+            price: "From $249.99"
         },
         ceramic: {
             title: "Ceramic Coating",
@@ -120,7 +120,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 "Hydrophobic properties",
                 "UV protection"
             ],
-            price: "From $299.99"
+            price: "From $349.99"
         }
     };
 
@@ -280,5 +280,5 @@ document.addEventListener('DOMContentLoaded', function() {
         once: true,
     });
 
-    console.log('Script loaded and running');
+    console.log('Fresh2Death AutoShine script loaded and running');
 });
